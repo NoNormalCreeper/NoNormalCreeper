@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### 👩‍💻 About Me
 
 - 🏫 I'm currently in a senior high schoool.
-- 🌱 I’m currently learning Java, JavaScript, Vue, algorithms ...
+- 🌱 I’m currently learning Go, JavaScript, Vue, algorithms ...
 
 #### 📊 Cool Charts
 
