@@ -29,4 +29,18 @@ Here are some ideas to get you started:
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NoNormalCreeper&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 18 July 2022 - To: 17 August 2022
+
+Total Time: 10 hrs 47 mins
+
+Python       7 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.24 %
+Go           2 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+HTML         2 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+Git Config   2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+JavaScript   1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Other        1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+```
+
 <!--END_SECTION:waka-->
