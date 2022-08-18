@@ -3,7 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: '20 0 * * *' # runs at every 4AM UTC+8
+    # - cron: '20 0 * * *' # runs at every 4AM UTC+8
+    - cron: '0,30 * * * *' # runs every 30 mins
 
 jobs:
   update-readme:
