@@ -31,16 +31,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 July 2022 - To: 17 August 2022
+From: 19 July 2022 - To: 18 August 2022
 
-Total Time: 10 hrs 47 mins
+Total Time: 13 hrs 8 mins
 
-Python       7 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.24 %
-Go           2 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-HTML         2 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-Git Config   2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-JavaScript   1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-Other        1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Python       9 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   39.71 %
+Other        3 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
 ```
 
 <!--END_SECTION:waka-->
