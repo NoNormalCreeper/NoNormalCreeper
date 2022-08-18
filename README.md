@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoNormalCreeper&layout=compact)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NoNormalCreeper&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
