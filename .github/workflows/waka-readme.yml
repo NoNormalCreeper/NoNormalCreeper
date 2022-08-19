@@ -4,7 +4,7 @@ on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
     # - cron: '20 0 * * *' # runs at every 4AM UTC+8
-    - cron: '0,30 * * * *' # runs every 30 mins
+    - cron: '* */2 * * *' # runs every 2hrs
 
 
 jobs:
@@ -18,9 +18,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: "True"
           SHOW_UPDATED_DATE: "True"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROFILE_VIEWS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE: "True"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "True"
