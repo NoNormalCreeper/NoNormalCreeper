@@ -36,43 +36,43 @@ Here are some ideas to get you started:
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NoNormalCreeper&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 353 Contributions in the Year 2022
+> 🏆 358 Contributions in the Year 2022
  > 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    58 commits     ██████░░░░░░░░░░░░░░░░░░░   27.23% 
-🌆 Daytime    107 commits    ████████████░░░░░░░░░░░░░   50.23% 
-🌃 Evening    47 commits     █████░░░░░░░░░░░░░░░░░░░░   22.07% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
+🌞 Morning    62 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
+🌆 Daytime    107 commits    ████████████░░░░░░░░░░░░░   49.31% 
+🌃 Evening    47 commits     █████░░░░░░░░░░░░░░░░░░░░   21.66% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Tuesday      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.33% 
-Wednesday    42 commits     █████░░░░░░░░░░░░░░░░░░░░   19.72% 
-Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.16% 
-Friday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-Saturday     67 commits     ███████░░░░░░░░░░░░░░░░░░   31.46% 
-Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.1%
+Monday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Tuesday      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+Wednesday    42 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
+Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.07% 
+Friday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Saturday     67 commits     ███████░░░░░░░░░░░░░░░░░░   30.88% 
+Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.99%
 
 ```
 
@@ -111,8 +111,9 @@ Windows                  1 hr 45 mins        ██░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             █████████████████░░░░░░░░   71.43% 
-HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
+Python                   5 repos             ███████████████░░░░░░░░░░   62.5% 
+HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Go                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
 
@@ -122,6 +123,6 @@ HTML                     2 repos             ███████░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NoNormalCreeper/NoNormalCreeper/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 01:53:42 UTC
+ Last Updated on 19/08/2022 03:56:33 UTC
 <!--END_SECTION:waka-->
 
