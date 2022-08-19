@@ -20,7 +20,14 @@ Here are some ideas to get you started:
 #### 👩‍💻 About Me
 
 - 🏫 I'm currently in a senior high schoool.
-- 🌱 I’m currently learning Go, JavaScript, Vue, algorithms ...
+- 🌱 I’m currently learning: 
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffca18?style=flat-square&logo=JavaScript&logoColor=fff)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
+![Golang](https://img.shields.io/badge/-Go-007d9c?style=flat-square&logo=Go&logoColor=fff)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=fff)
 
 #### 📊 Cool Charts
 
@@ -117,3 +124,4 @@ HTML                     2 repos             ███████░░░░�
 
  Last Updated on 19/08/2022 01:53:42 UTC
 <!--END_SECTION:waka-->
+
