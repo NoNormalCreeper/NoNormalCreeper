@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NoNormalCreeper&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 562 Contributions in the Year 2022
+> 🏆 566 Contributions in the Year 2022
  > 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
@@ -54,6 +54,59 @@ Here are some ideas to get you started:
  > 
 > 🔑 2 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    88 commits     █████░░░░░░░░░░░░░░░░░░░░   23.1% 
+🌆 Daytime    161 commits    ██████████░░░░░░░░░░░░░░░   42.26% 
+🌃 Evening    102 commits    ██████░░░░░░░░░░░░░░░░░░░   26.77% 
+🌙 Night      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
+Tuesday      44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
+Wednesday    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
+Thursday     12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
+Friday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
+Saturday     100 commits    ██████░░░░░░░░░░░░░░░░░░░   26.25% 
+Sunday       89 commits     █████░░░░░░░░░░░░░░░░░░░░   23.36%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   6 hrs 30 mins       ███████████░░░░░░░░░░░░░░   45.74% 
+sh                       5 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   42.06% 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+
+🔥 Editors: 
+VS Code                  8 hrs 10 mins       ██████████████░░░░░░░░░░░   57.54% 
+Zsh                      5 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   42.06% 
+PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+
+🐱‍💻 Projects: 
+QQ-chat-recorder         12 hrs 6 mins       █████████████████████░░░░   85.2% 
+OhMyStream9              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.93% 
+Terminal                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.23% 
+nonebot_plugin_wolfram   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+
+💻 Operating System: 
+Linux                    12 hrs 54 mins      ██████████████████████░░░   90.81% 
+Windows                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.19%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -69,6 +122,6 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NoNormalCreeper/NoNormalCreeper/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 08:24:33 UTC
+ Last Updated on 04/09/2022 20:22:44 UTC
 <!--END_SECTION:waka-->
 
