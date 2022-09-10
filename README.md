@@ -36,15 +36,15 @@ Here are some ideas to get you started:
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NoNormalCreeper&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 620 Contributions in the Year 2022
+> 🏆 621 Contributions in the Year 2022
  > 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
@@ -125,6 +125,6 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NoNormalCreeper/NoNormalCreeper/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/09/2022 08:29:48 UTC
+ Last Updated on 10/09/2022 20:23:42 UTC
 <!--END_SECTION:waka-->
 
