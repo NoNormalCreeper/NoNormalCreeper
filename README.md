@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NoNormalCreeper&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![Github stats](https://github-profile-trophy.vercel.app/?username=NoNormalCreeper)
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2010%20mins-blue)
 
