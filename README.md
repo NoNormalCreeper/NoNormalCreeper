@@ -2,6 +2,8 @@
 
 \[*Under Construction*\]
 
+UTC+8 · English / Chinese(Simplified/Traditional)
+
 <!--
 **NoNormalCreeper/NoNormalCreeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
