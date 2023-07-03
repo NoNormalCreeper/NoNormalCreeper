@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -101,7 +101,7 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
+Python                   10 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
 JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
@@ -111,6 +111,6 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2023 08:16:12 UTC
+ Last Updated on 03/07/2023 08:15:02 UTC
 <!--END_SECTION:waka-->
 
