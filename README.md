@@ -86,16 +86,18 @@ Sunday                   211 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████████░░░░░░░░   68.73 % 
+Python                   0 secs              ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Inkar-Suki               0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,6 +113,6 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2024 08:22:39 UTC
+ Last Updated on 14/06/2024 08:23:44 UTC
 <!--END_SECTION:waka-->
 
