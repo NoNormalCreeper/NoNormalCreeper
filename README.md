@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,8 +50,6 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 1.9 MB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,6 +111,6 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2024 08:22:22 UTC
+ Last Updated on 18/06/2024 08:23:01 UTC
 <!--END_SECTION:waka-->
 
