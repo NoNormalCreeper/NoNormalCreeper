@@ -51,8 +51,6 @@ Here are some ideas to get you started:
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 36 Public Repositories 
@@ -86,20 +84,16 @@ Sunday                   210 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 min               █████████████░░░░░░░░░░░░   51.12 % 
-Python                   1 min               ███████████░░░░░░░░░░░░░░   45.75 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Excel                    1 min               █████████████░░░░░░░░░░░░   51.12 % 
-VS Code                  1 min               ████████████░░░░░░░░░░░░░   48.88 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 min               █████████████░░░░░░░░░░░░   51.12 % 
-Inkar-Suki               1 min               ████████████░░░░░░░░░░░░░   48.88 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -115,6 +109,6 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/06/2024 08:24:52 UTC
+ Last Updated on 26/06/2024 08:21:59 UTC
 <!--END_SECTION:waka-->
 
