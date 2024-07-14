@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,8 +50,6 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 1.9 MB Used in GitHub's Storage 
- > 
-> 🏆 13 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,16 +84,20 @@ Sunday                   210 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   53 mins             █████████████████████████   100.00 % 
+TypeScript               7 mins              ███████████████████░░░░░░   76.49 % 
+JavaScript               1 min               █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          53 mins             █████████████████████████   100.00 % 
+jx3dps-online            10 mins             ████████████████████████░   97.44 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,6 +113,6 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2024 08:16:10 UTC
+ Last Updated on 14/07/2024 08:15:19 UTC
 <!--END_SECTION:waka-->
 
