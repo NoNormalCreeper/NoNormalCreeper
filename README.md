@@ -51,8 +51,6 @@ Here are some ideas to get you started:
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 36 Public Repositories 
@@ -86,18 +84,16 @@ Sunday                   210 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 mins              ████████████████████░░░░░   78.50 % 
-JavaScript               1 min               █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-jx3dps-online            10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -113,6 +109,6 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2024 08:14:04 UTC
+ Last Updated on 20/07/2024 08:13:01 UTC
 <!--END_SECTION:waka-->
 
