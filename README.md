@@ -51,8 +51,6 @@ Here are some ideas to get you started:
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 36 Public Repositories 
@@ -86,16 +84,16 @@ Sunday                   210 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LearnC                   1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,6 +109,6 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2024 08:14:34 UTC
+ Last Updated on 02/08/2024 08:14:33 UTC
 <!--END_SECTION:waka-->
 
