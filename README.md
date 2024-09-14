@@ -51,8 +51,6 @@ Here are some ideas to get you started:
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -86,23 +84,16 @@ Sunday                   210 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 mins              ██████████████░░░░░░░░░░░   56.94 % 
-JavaScript               4 mins              ██████████░░░░░░░░░░░░░░░   41.75 % 
-HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  6 mins              ███████████████░░░░░░░░░░   58.25 % 
-VS Code                  4 mins              ██████████░░░░░░░░░░░░░░░   41.75 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Device_Manager           5 mins              ███████████░░░░░░░░░░░░░░   45.10 % 
-dagger-game              4 mins              ██████████░░░░░░░░░░░░░░░   41.75 % 
-MultiTimer               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -118,6 +109,6 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2024 08:15:22 UTC
+ Last Updated on 14/09/2024 08:16:14 UTC
 <!--END_SECTION:waka-->
 
