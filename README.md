@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 98 Contributions in the Year 2024
+> 🏆 99 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -86,16 +86,20 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      40 mins             █████████████████░░░░░░░░   66.55 % 
+CMake                    18 mins             ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+communication_teaching   1 hr                █████████████████████████   98.67 % 
+intro_to_computation     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,6 +115,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2024 08:14:40 UTC
+ Last Updated on 09/10/2024 08:16:09 UTC
 <!--END_SECTION:waka-->
 
