@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 1.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 16 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,16 +86,22 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       4 hrs 9 mins        █████████████████████░░░░   82.99 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   4 hrs 46 mins       ████████████████████████░   95.07 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+2Class_script            4 hrs 46 mins       ████████████████████████░   95.07 % 
+rikka                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 46 mins       ████████████████████████░   95.07 % 
+WSL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,6 +117,6 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2025 08:16:04 UTC
+ Last Updated on 17/01/2025 08:15:59 UTC
 <!--END_SECTION:waka-->
 
