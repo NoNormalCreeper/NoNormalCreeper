@@ -41,15 +41,17 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 64 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -117,6 +119,6 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2025 08:16:56 UTC
+ Last Updated on 22/02/2025 08:15:26 UTC
 <!--END_SECTION:waka-->
 
