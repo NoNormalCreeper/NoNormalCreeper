@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 #### 📊 Cool Charts
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoNormalCreeper&layout=compact)
+![Top Langs](https://readme-stats-zeta-six.vercel.app/api/top-langs/?username=NoNormalCreeper&layout=compact)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=NoNormalCreeper&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://readme-stats-zeta-six.vercel.app/api?username=NoNormalCreeper&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github stats](https://github-profile-trophy.vercel.app/?username=NoNormalCreeper)
 
