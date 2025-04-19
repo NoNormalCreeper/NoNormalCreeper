@@ -86,16 +86,16 @@ Sunday                   289 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-intro_to_computation     22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -111,6 +111,6 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2025 18:16:17 UTC
+ Last Updated on 19/04/2025 18:16:27 UTC
 <!--END_SECTION:waka-->
 
