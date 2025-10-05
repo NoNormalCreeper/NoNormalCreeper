@@ -86,18 +86,16 @@ Sunday                   468 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 14 mins       █████████████████████████   99.64 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-data_structure           2 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      2 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -113,6 +111,6 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2025 22:34:06 UTC
+ Last Updated on 05/10/2025 22:34:48 UTC
 <!--END_SECTION:waka-->
 
