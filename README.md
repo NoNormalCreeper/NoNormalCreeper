@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-943%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -101,21 +101,16 @@ Sunday                   503 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        24 mins             ████████████░░░░░░░░░░░░░   46.86 % 
-Assembly                 18 mins             █████████░░░░░░░░░░░░░░░░   35.26 % 
-Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-csapp                    51 mins             █████████████████████████   98.55 % 
-data_structure           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -131,6 +126,6 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2025 22:41:39 UTC
+ Last Updated on 31/12/2025 22:42:56 UTC
 <!--END_SECTION:waka-->
 
