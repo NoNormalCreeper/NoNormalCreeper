@@ -1,23 +1,49 @@
-### Hi there 👋
+## Hi there 👋
 
-\[*Under Construction*\]
+**UTC+8 · English / Chinese (Simplified / Traditional)**
 
-UTC+8 · English / Chinese(Simplified/Traditional)
+I'm a Computer Science student at BUPT, interested in systems programming, backend development, developer tools, and practical software projects.
+
+I enjoy building tools that are technically solid and pleasant to use, from CLI utilities and backend services to full-stack side projects.
+
+I also enjoy exploratory side projects, learning new tools by building with them, and thinking about how technical systems meet real user experience.
+
+### Selected Work
+
+- **libssh-related work** — contributions around libssh and SSH client-side tooling, with a growing interest in Rust, systems programming, and terminal software.
+
+- **Compiler / backend projects** — worked on compiler backends and IR-related tooling, including RISC-V code generation, low-level debugging, and optimization-oriented work in systems-focused projects.
+
+- **CLI tools** — built command-line tools for practical workflows, with attention to interaction design, validation, documentation, and release usability.
+
+- **Backend engineering projects** — contributed to backend and infrastructure-oriented team projects, mainly around APIs, storage, automation, and engineering workflow.
+
+- **Bot and automation projects** — personal projects around chat bots, plugin development, workflow automation, and community-oriented tooling.
+
+### Currently Working On
+
+- Exploring Rust, systems programming, and SSH/client-side tooling
+- Building full-stack and tooling projects in Go / Python / TypeScript
+
+### Personal / Interest Projects
+- **Private side projects** — product-oriented experiments involving full-stack development, automation, and user-facing workflows.
+- **Nonebot / Bot Projects** — Personal projects around chat bots, plugin development, automation, bot protocol, and community contributions.
+
+
+### Interests
+
+- Systems programming
+- Rust / C / Go / Python / TypeScript
+- Networking and terminal tools
+- Compilers, low-level debugging, and performance-oriented thinking
+- Developer tooling
+- Low-level debugging, reverse engineering, and occasional CTF challenges
+- Practical AI workflows and AI-assisted tools
+- Product feel, usability, UI/UX, and interface design
 
 <!--
-**NoNormalCreeper/NoNormalCreeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+UTC+8 · English / Chinese(Simplified/Traditional)
 
 #### 👩‍💻 About Me
 
@@ -56,6 +82,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://readme-stats-zeta-six.vercel.app/api/top-langs/?username=NoNormalCreeper&layout=compact)
 
 [![Github stats](https://readme-stats-zeta-six.vercel.app/api?username=NoNormalCreeper&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 ![Github stats](https://github-profile-trophy.vercel.app/?username=NoNormalCreeper)
 
