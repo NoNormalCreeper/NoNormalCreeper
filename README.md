@@ -99,7 +99,7 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 327 Contributions in the Year 2026
+> 🏆 340 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,66 +107,19 @@ UTC+8 · English / Chinese(Simplified/Traditional)
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                293 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-🌆 Daytime                1244 commits        ████████░░░░░░░░░░░░░░░░░   33.11 % 
-🌃 Evening                1400 commits        █████████░░░░░░░░░░░░░░░░   37.26 % 
-🌙 Night                  820 commits         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   554 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Tuesday                  661 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Wednesday                560 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Thursday                 619 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Friday                   512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Saturday                 397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Sunday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 3 hrs 19 mins       █████████████░░░░░░░░░░░░   51.05 % 
-Rust                     2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
-Bash                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 31 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-control-plane            5 hrs 45 mins       ██████████████████████░░░   88.32 % 
-sidecar                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-SealBox-frontend         15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-verifier                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-node-agent               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-WSL                      6 hrs 31 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Rust                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C                        7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Rust                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+C                        7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
 
 
- Last Updated on 16/04/2026 23:16:53 UTC
+ Last Updated on 17/04/2026 23:12:08 UTC
 <!--END_SECTION:waka-->
 
