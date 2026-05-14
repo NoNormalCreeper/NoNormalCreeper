@@ -89,8 +89,6 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2043%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.37%20million%20lines%20of%20code-blue?style=flat)
@@ -99,7 +97,7 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 543 Contributions in the Year 2026
+> 🏆 550 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,67 +105,19 @@ UTC+8 · English / Chinese(Simplified/Traditional)
  > 
 > 🔑 27 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-🌆 Daytime                1933 commits        ██████████░░░░░░░░░░░░░░░   38.39 % 
-🌃 Evening                1838 commits        █████████░░░░░░░░░░░░░░░░   36.50 % 
-🌙 Night                  958 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   994 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Tuesday                  670 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Wednesday                614 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Thursday                 1260 commits        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-Friday                   555 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Saturday                 459 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Sunday                   483 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-Markdown                 6 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Other                    4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-C++                      3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-C                        2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-
-🔥 Editors: 
-VS Code                  26 hrs 28 mins      ████████████████████████░   95.94 % 
-Unknown Editor           55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-
-🐱‍💻 Projects: 
-travel-agent-tour        17 hrs 42 mins      ████████████████░░░░░░░░░   64.19 % 
-computer-network-lab1    4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-oop-labs                 3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-travel-frontend          2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-
-💻 Operating System: 
-WSL                      27 hrs 35 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Rust                     14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-TypeScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-C++                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-C                        7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Rust                     14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+TypeScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+C++                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+C                        7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
 
 
 
- Last Updated on 13/05/2026 23:40:29 UTC
+ Last Updated on 14/05/2026 23:13:04 UTC
 <!--END_SECTION:waka-->
 
