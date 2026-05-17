@@ -89,17 +89,15 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2051%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.37%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 550 Contributions in the Year 2026
+> 🏆 571 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,51 +105,6 @@ UTC+8 · English / Chinese(Simplified/Traditional)
  > 
 > 🔑 27 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-🌆 Daytime                1927 commits        ██████████░░░░░░░░░░░░░░░   38.31 % 
-🌃 Evening                1838 commits        █████████░░░░░░░░░░░░░░░░   36.54 % 
-🌙 Night                  959 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   994 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Tuesday                  670 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Wednesday                614 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Thursday                 1260 commits        ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-Friday                   555 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Saturday                 453 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Sunday                   484 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C                        7 hrs 14 mins       ██████████████░░░░░░░░░░░   55.03 % 
-Other                    4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.99 % 
-Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Makefile                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 9 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-computer-network-lab1    11 hrs 58 mins      ███████████████████████░░   91.04 % 
-bloom_filter_paper       36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-travel-agent-tour        34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-
-💻 Operating System: 
-WSL                      13 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -165,6 +118,6 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2026 23:03:57 UTC
+ Last Updated on 17/05/2026 23:09:21 UTC
 <!--END_SECTION:waka-->
 
