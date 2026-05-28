@@ -89,37 +89,35 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2014%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.56%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 579 Contributions in the Year 2026
+> 🏆 592 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 72 Public Repositories 
+> 📜 73 Public Repositories 
  > 
 > 🔑 27 Private Repositories 
  > 
 **I Mostly Code in Python** 
 
 ```text
-Rust                     14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-TypeScript               13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-C++                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-C                        7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Rust                     15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+TypeScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+C++                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+C                        7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 
 
 
- Last Updated on 27/05/2026 23:33:47 UTC
+ Last Updated on 28/05/2026 23:33:42 UTC
 <!--END_SECTION:waka-->
 
