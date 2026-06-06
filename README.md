@@ -89,17 +89,17 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C153%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.96%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 645 Contributions in the Year 2026
+> 🏆 661 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,50 +107,6 @@ UTC+8 · English / Chinese(Simplified/Traditional)
  > 
 > 🔑 28 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                713 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-🌆 Daytime                3237 commits        ██████████░░░░░░░░░░░░░░░   40.91 % 
-🌃 Evening                2686 commits        ████████░░░░░░░░░░░░░░░░░   33.95 % 
-🌙 Night                  1276 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1565 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Tuesday                  747 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Wednesday                829 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Thursday                 2201 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Friday                   948 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Saturday                 967 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Sunday                   655 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-Markdown                 2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-C                        2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-JSON                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 45 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-travel-agent-tour        7 hrs 45 mins       ██████████████████░░░░░░░   72.10 % 
-dns-relay                3 hrs               ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-
-💻 Operating System: 
-WSL                      10 hrs 45 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -164,6 +120,6 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 23:17:41 UTC
+ Last Updated on 06/06/2026 23:12:03 UTC
 <!--END_SECTION:waka-->
 
