@@ -77,13 +77,13 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 - *I don't like GitHub Copilot anymore because student accounts can't choose advanced models.*
 
+-->
+
 #### 📊 Cool Charts
 
 ![Top Langs](https://readme-stats-zeta-six.vercel.app/api/top-langs/?username=NoNormalCreeper&layout=compact)
 
 [![Github stats](https://readme-stats-zeta-six.vercel.app/api?username=NoNormalCreeper&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-
--->
 
 ![Github stats](https://github-profile-trophy.vercel.app/?username=NoNormalCreeper)
 
