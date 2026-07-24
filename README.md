@@ -89,11 +89,9 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C300%20hrs%2058%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.02%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -110,21 +108,21 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                314 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-🌆 Daytime                1547 commits        █████████░░░░░░░░░░░░░░░░   35.23 % 
-🌃 Evening                1597 commits        █████████░░░░░░░░░░░░░░░░   36.37 % 
-🌙 Night                  933 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+🌞 Morning                425 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+🌆 Daytime                4004 commits        ███████████░░░░░░░░░░░░░░   43.24 % 
+🌃 Evening                3231 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
+🌙 Night                  1600 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Tuesday                  741 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Wednesday                609 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Thursday                 724 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Friday                   570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Saturday                 652 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Sunday                   493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Monday                   1793 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Tuesday                  802 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Wednesday                785 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Thursday                 2758 commits        ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+Friday                   1214 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Saturday                 1189 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Sunday                   719 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 ```
 
 
@@ -134,18 +132,18 @@ Sunday                   493 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 12 mins        ███████████████████░░░░░░   77.44 % 
-Other                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Markdown                 2 hrs 3 mins        █████████████████████░░░░   85.45 % 
+Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-byrdocs-cli-envolved     1 hr 33 mins        █████████████████████████   100.00 % 
+byrdocs-cli-envolved     2 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      1 hr 33 mins        █████████████████████████   100.00 % 
+WSL                      2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -161,6 +159,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 23:06:44 UTC
+ Last Updated on 24/07/2026 23:16:42 UTC
 <!--END_SECTION:waka-->
 
