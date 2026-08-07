@@ -93,9 +93,9 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-259%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.70%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.22%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -112,21 +112,21 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                480 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-🌆 Daytime                4029 commits        ███████████░░░░░░░░░░░░░░   43.36 % 
-🌃 Evening                3211 commits        █████████░░░░░░░░░░░░░░░░   34.56 % 
-🌙 Night                  1571 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+🌞 Morning                310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+🌆 Daytime                1519 commits        █████████░░░░░░░░░░░░░░░░   35.94 % 
+🌃 Evening                1513 commits        █████████░░░░░░░░░░░░░░░░   35.80 % 
+🌙 Night                  884 commits         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1814 commits        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Tuesday                  810 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Wednesday                792 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Thursday                 2764 commits        ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-Friday                   1213 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Saturday                 1175 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Sunday                   723 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Monday                   599 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Tuesday                  733 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Wednesday                582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Thursday                 720 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Friday                   562 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Saturday                 551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Sunday                   479 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 ```
 
 
@@ -136,46 +136,45 @@ Sunday                   723 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.24 % 
-Other                    2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-C                        1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Markdown                 1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other                    1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   34.62 % 
+C                        1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+Markdown                 49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Python                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-Codecomposerstudio       7 hrs 16 mins       ████████████████████████░   96.27 % 
-VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Codecomposerstudio       4 hrs 4 mins        ████████████████████████░   95.39 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🐱‍💻 Projects: 
-TI_CUP_PREP              4 hrs               █████████████░░░░░░░░░░░░   53.09 % 
-F_LissajousController    3 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
-firmware                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-电赛培训3                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+F_LissajousController    2 hrs 20 mins       ██████████████░░░░░░░░░░░   54.84 % 
+TI_CUP_PREP              1 hr 54 mins        ███████████░░░░░░░░░░░░░░   44.61 % 
+电赛培训3                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Windows                  7 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 26 mins (98.44%)
+⏱ AI Coding Time: 4 hrs 12 mins (98.59%)
 
-✍️ 7,111 lines written by AI, 4 lines written by hand (99.94% AI-written)
+✍️ 2,829 lines written by AI, 4 lines written by hand (99.86% AI-written)
 
-🔤 234,509,785 Input Tokens, 1,147,798 Output Tokens
+🔤 75,706,653 Input Tokens, 361,673 Output Tokens
 
-💵 $1206.98 Estimated AI Cost This Week
+💵 $389.38 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 77 AI Prompts
+🧠 9 AI Sessions, 42 AI Prompts
 
-GPT                      7,238 lines         █████████████████████████   100.00 % 
+GPT                      2,955 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📝 Concise Prompter — average 215 characters per prompt
+🤖 AI-Driven — 99.86% of written lines came from AI
+📝 Concise Prompter — average 156 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -191,6 +190,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 01:44:54 UTC
+ Last Updated on 07/08/2026 22:46:28 UTC
 <!--END_SECTION:waka-->
 
