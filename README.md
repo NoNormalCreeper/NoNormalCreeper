@@ -114,13 +114,13 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 ```text
 🌞 Morning                481 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 🌆 Daytime                4030 commits        ███████████░░░░░░░░░░░░░░   43.35 % 
-🌃 Evening                3214 commits        █████████░░░░░░░░░░░░░░░░   34.57 % 
+🌃 Evening                3213 commits        █████████░░░░░░░░░░░░░░░░   34.56 % 
 🌙 Night                  1572 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1817 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Monday                   1816 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
 Tuesday                  811 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 Wednesday                793 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 Thursday                 2764 commits        ███████░░░░░░░░░░░░░░░░░░   29.73 % 
@@ -136,30 +136,30 @@ Sunday                   723 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 8 mins        █████████████████████░░░░   83.03 % 
-Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-MDX                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Markdown                 3 hrs 59 mins       █████████████████████░░░░   82.54 % 
+Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+MDX                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 31 mins       ███████████████████████░░   90.72 % 
-Claude Code              27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+VS Code                  4 hrs 22 mins       ███████████████████████░░   90.45 % 
+Claude Code              27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🐱‍💻 Projects: 
-byrdocs-blog             3 hrs 51 mins       ███████████████████░░░░░░   77.40 % 
-byrdocs-cli-envolved     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-byrdocs-contri           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-byrdocs-neowiki          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+byrdocs-blog             3 hrs 51 mins       ████████████████████░░░░░   79.63 % 
+byrdocs-cli-envolved     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+byrdocs-contri           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+byrdocs-neowiki          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 💻 Operating System: 
-WSL                      4 hrs 59 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (25.29%)
+⏱ AI Coding Time: 1 hr 15 mins (26.02%)
 
 ✍️ 516 lines written by AI, 441 lines written by hand (53.92% AI-written)
 
@@ -192,6 +192,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 22:41:07 UTC
+ Last Updated on 18/08/2026 22:40:03 UTC
 <!--END_SECTION:waka-->
 
