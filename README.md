@@ -95,7 +95,7 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -112,21 +112,21 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                495 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-🌆 Daytime                4052 commits        ███████████░░░░░░░░░░░░░░   43.28 % 
-🌃 Evening                3237 commits        █████████░░░░░░░░░░░░░░░░   34.57 % 
-🌙 Night                  1579 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+🌞 Morning                425 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+🌆 Daytime                4005 commits        ███████████░░░░░░░░░░░░░░   43.44 % 
+🌃 Evening                3210 commits        █████████░░░░░░░░░░░░░░░░   34.82 % 
+🌙 Night                  1579 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1823 commits        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Tuesday                  820 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Wednesday                805 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Thursday                 2769 commits        ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-Friday                   1229 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Saturday                 1188 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Sunday                   729 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Monday                   1796 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Tuesday                  807 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Wednesday                779 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Thursday                 2758 commits        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Friday                   1210 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Saturday                 1155 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Sunday                   714 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 ```
 
 
@@ -136,40 +136,22 @@ Sunday                   729 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 35 mins             ██████████████░░░░░░░░░░░   56.76 % 
-Other                    26 mins             ███████████░░░░░░░░░░░░░░   43.24 % 
+Other                    12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-byrdocs-blog             47 mins             ███████████████████░░░░░░   77.11 % 
-byrdocs-cli-envolved     14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (25.4%)
-
-✍️ 0 lines written by AI, 50 lines written by hand (0.0% AI-written)
-
-🔤 2,616,807 Input Tokens, 13,481 Output Tokens
-
-💵 $15.53 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 183 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -185,6 +167,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 22:41:07 UTC
+ Last Updated on 20/08/2026 22:43:21 UTC
 <!--END_SECTION:waka-->
 
