@@ -113,20 +113,20 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 ```text
 🌞 Morning                312 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-🌆 Daytime                1549 commits        █████████░░░░░░░░░░░░░░░░   35.99 % 
-🌃 Evening                1541 commits        █████████░░░░░░░░░░░░░░░░   35.80 % 
-🌙 Night                  902 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+🌆 Daytime                1549 commits        █████████░░░░░░░░░░░░░░░░   35.97 % 
+🌃 Evening                1541 commits        █████████░░░░░░░░░░░░░░░░   35.79 % 
+🌙 Night                  904 commits         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   608 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Tuesday                  760 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Wednesday                609 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Thursday                 724 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Friday                   568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Monday                   608 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Tuesday                  760 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Wednesday                611 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Thursday                 724 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Friday                   568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 Saturday                 551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Sunday                   484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Sunday                   484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 ```
 
 
@@ -136,43 +136,43 @@ Sunday                   484 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 22 mins        ████████████░░░░░░░░░░░░░   46.24 % 
-C++                      1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   40.74 % 
-Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+C++                      1 hr 9 mins         ████████████░░░░░░░░░░░░░   47.39 % 
+Other                    53 mins             █████████░░░░░░░░░░░░░░░░   36.68 % 
+Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
 C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-asst1                    37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-asst2                    35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-NexysRV-Insight          29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-awesome-bupt-scs         23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-rikka                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+asst2                    35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+asst1                    34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+awesome-bupt-scs         23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+rikka                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+ExpressFlow              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 
 💻 Operating System: 
-WSL                      2 hrs 58 mins       █████████████████████████   100.00 % 
+WSL                      2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 24 mins (80.55%)
+⏱ AI Coding Time: 1 hr 54 mins (78.67%)
 
 ✍️ 0 lines written by AI, 25 lines written by hand (0.0% AI-written)
 
-🔤 12,733,709 Input Tokens, 94,800 Output Tokens
+🔤 8,122,990 Input Tokens, 63,091 Output Tokens
 
-💵 $132.08 Estimated AI Cost This Week
+💵 $84.38 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 31 AI Prompts
+🧠 13 AI Sessions, 21 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 519 characters per prompt
+📄 Detailed Prompter — average 717 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -190,6 +190,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 23:45:22 UTC
+ Last Updated on 06/09/2026 23:44:22 UTC
 <!--END_SECTION:waka-->
 
