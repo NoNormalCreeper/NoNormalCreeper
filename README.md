@@ -136,45 +136,44 @@ Sunday                   719 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 9 mins         ████████████░░░░░░░░░░░░░   47.39 % 
-Other                    53 mins             █████████░░░░░░░░░░░░░░░░   36.68 % 
-Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C++                      1 hr 9 mins         ███████████████████░░░░░░   77.07 % 
+Other                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-asst2                    35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-asst1                    34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-awesome-bupt-scs         23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-rikka                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-ExpressFlow              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+asst2                    35 mins             ██████████░░░░░░░░░░░░░░░   39.17 % 
+asst1                    34 mins             █████████░░░░░░░░░░░░░░░░   37.93 % 
+rikka                    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+byrdocs-bot              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+byrdocs-cli-envolved     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
-WSL                      2 hrs 26 mins       █████████████████████████   100.00 % 
+WSL                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 54 mins (78.67%)
+⏱ AI Coding Time: 1 hr 17 mins (86.71%)
 
-✍️ 0 lines written by AI, 25 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 8,122,990 Input Tokens, 63,091 Output Tokens
+🔤 3,162,028 Input Tokens, 20,158 Output Tokens
 
-💵 $84.38 Estimated AI Cost This Week
+💵 $32.63 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 21 AI Prompts
+🧠 8 AI Sessions, 12 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 717 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 102 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -190,6 +189,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 00:15:30 UTC
+ Last Updated on 09/09/2026 00:08:15 UTC
 <!--END_SECTION:waka-->
 
