@@ -95,7 +95,7 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -112,21 +112,21 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                312 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-🌆 Daytime                1549 commits        █████████░░░░░░░░░░░░░░░░   35.98 % 
-🌃 Evening                1540 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
-🌙 Night                  904 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+🌞 Morning                496 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+🌆 Daytime                4063 commits        ███████████░░░░░░░░░░░░░░   43.28 % 
+🌃 Evening                3249 commits        █████████░░░░░░░░░░░░░░░░   34.61 % 
+🌙 Night                  1579 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   607 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Tuesday                  760 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Wednesday                611 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Thursday                 724 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Friday                   568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Saturday                 551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Sunday                   484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Monday                   1824 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Tuesday                  835 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Wednesday                808 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Thursday                 2769 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+Friday                   1229 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 1188 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Sunday                   734 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 ```
 
 
@@ -136,40 +136,36 @@ Sunday                   484 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      21 mins             █████████████░░░░░░░░░░░░   52.88 % 
-Other                    19 mins             ████████████░░░░░░░░░░░░░   47.05 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-asst2                    21 mins             █████████████░░░░░░░░░░░░   52.95 % 
-rikka                    15 mins             ██████████░░░░░░░░░░░░░░░   39.30 % 
-byrdocs-bot              3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+rikka                    8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      40 mins             █████████████████████████   100.00 % 
+WSL                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (97.82%)
+⏱ AI Coding Time: 8 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,650,636 Input Tokens, 12,197 Output Tokens
+🔤 927,805 Input Tokens, 6,544 Output Tokens
 
-💵 $17.12 Estimated AI Cost This Week
+💵 $9.61 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 87 characters per prompt
+📝 Concise Prompter — average 41 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -187,6 +183,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 00:02:36 UTC
+ Last Updated on 11/09/2026 00:02:44 UTC
 <!--END_SECTION:waka-->
 
