@@ -95,7 +95,7 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.67%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.73%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -112,21 +112,21 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                496 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-🌆 Daytime                4063 commits        ███████████░░░░░░░░░░░░░░   43.28 % 
-🌃 Evening                3250 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
-🌙 Night                  1579 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+🌞 Morning                505 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+🌆 Daytime                4037 commits        ███████████░░░░░░░░░░░░░░   43.23 % 
+🌃 Evening                3225 commits        █████████░░░░░░░░░░░░░░░░   34.53 % 
+🌙 Night                  1572 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1825 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Tuesday                  835 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Wednesday                808 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Thursday                 2772 commits        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-Friday                   1229 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Saturday                 1188 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Sunday                   731 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Monday                   1821 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Tuesday                  827 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Wednesday                800 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Thursday                 2766 commits        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+Friday                   1212 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Saturday                 1190 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Sunday                   723 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 ```
 
 
@@ -187,6 +187,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 00:30:38 UTC
+ Last Updated on 26/09/2026 00:36:16 UTC
 <!--END_SECTION:waka-->
 
