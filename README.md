@@ -89,13 +89,13 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C280%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-294%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-298%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -112,21 +112,21 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                411 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-🌆 Daytime                3970 commits        ███████████░░░░░░░░░░░░░░   43.42 % 
-🌃 Evening                3191 commits        █████████░░░░░░░░░░░░░░░░   34.90 % 
-🌙 Night                  1571 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+🌞 Morning                685 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+🌆 Daytime                4192 commits        ███████████░░░░░░░░░░░░░░   42.88 % 
+🌃 Evening                3319 commits        ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌙 Night                  1581 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1792 commits        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Tuesday                  811 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Wednesday                762 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Thursday                 2754 commits        ████████░░░░░░░░░░░░░░░░░   30.12 % 
-Friday                   1180 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Saturday                 1138 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Sunday                   706 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Monday                   1886 commits        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Tuesday                  864 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Wednesday                883 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Thursday                 2800 commits        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+Friday                   1293 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Saturday                 1287 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Sunday                   764 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 ```
 
 
@@ -136,41 +136,41 @@ Sunday                   706 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 40 mins      ███████████░░░░░░░░░░░░░░   45.50 % 
-Markdown                 8 hrs               ███████░░░░░░░░░░░░░░░░░░   28.78 % 
-Cuda                     5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-C++                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Other                    13 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   40.40 % 
+Markdown                 10 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   32.91 % 
+Cuda                     5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+C++                      2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ZXHPC                    27 hrs 50 mins      █████████████████████████   100.00 % 
+ZXHPC                    33 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      27 hrs 50 mins      █████████████████████████   100.00 % 
+WSL                      33 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 53 mins (96.6%)
+⏱ AI Coding Time: 30 hrs 41 mins (92.05%)
 
-✍️ 0 lines written by AI, 982 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,068 lines written by hand (0.0% AI-written)
 
-🔤 684,988,351 Input Tokens, 3,400,145 Output Tokens
+🔤 710,730,327 Input Tokens, 3,561,094 Output Tokens
 
-💵 $7019.89 Estimated AI Cost This Week
+💵 $7285.36 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 950 AI Prompts
+🧠 58 AI Sessions, 1001 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 9,048 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
+📚 Verbose Prompter — average 8,713 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -187,6 +187,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 00:29:51 UTC
+ Last Updated on 28/09/2026 00:31:31 UTC
 <!--END_SECTION:waka-->
 
