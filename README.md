@@ -95,7 +95,7 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -112,21 +112,21 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                314 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-🌆 Daytime                1562 commits        █████████░░░░░░░░░░░░░░░░   35.57 % 
-🌃 Evening                1590 commits        █████████░░░░░░░░░░░░░░░░   36.21 % 
-🌙 Night                  925 commits         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+🌞 Morning                496 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+🌆 Daytime                4063 commits        ███████████░░░░░░░░░░░░░░   43.27 % 
+🌃 Evening                3251 commits        █████████░░░░░░░░░░░░░░░░   34.63 % 
+🌙 Night                  1579 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   608 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Tuesday                  761 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Wednesday                611 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Thursday                 727 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Friday                   571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Saturday                 619 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Sunday                   494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Monday                   1826 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Tuesday                  835 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Wednesday                808 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Thursday                 2772 commits        ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+Friday                   1229 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 1188 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Sunday                   731 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 ```
 
 
@@ -136,8 +136,8 @@ Sunday                   494 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 52 mins       ██████████████░░░░░░░░░░░   55.61 % 
-Markdown                 4 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.10 % 
+Other                    7 hrs 4 mins        ████████████░░░░░░░░░░░░░   50.00 % 
+Markdown                 5 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.71 % 
 C++                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 Text                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -161,7 +161,7 @@ WSL                      14 hrs 9 mins       ███████████�
 
 🔤 336,136,545 Input Tokens, 2,028,225 Output Tokens
 
-💵 $3463.58 Estimated AI Cost This Week
+💵 $3462.78 Estimated AI Cost This Week
 
 🧠 32 AI Sessions, 856 AI Prompts
 
@@ -187,6 +187,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 01:31:43 UTC
+ Last Updated on 03/10/2026 01:10:52 UTC
 <!--END_SECTION:waka-->
 
