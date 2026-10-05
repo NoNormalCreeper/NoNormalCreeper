@@ -95,7 +95,7 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.34%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -112,21 +112,21 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                312 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-🌆 Daytime                1554 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
-🌃 Evening                1543 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
-🌙 Night                  905 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+🌞 Morning                591 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+🌆 Daytime                4130 commits        ███████████░░░░░░░░░░░░░░   43.08 % 
+🌃 Evening                3286 commits        █████████░░░░░░░░░░░░░░░░   34.28 % 
+🌙 Night                  1580 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   609 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Tuesday                  761 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Wednesday                611 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Thursday                 727 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Friday                   571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Saturday                 551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Sunday                   484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Monday                   1856 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Tuesday                  851 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Wednesday                846 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Thursday                 2784 commits        ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+Friday                   1262 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Saturday                 1240 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Sunday                   748 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 ```
 
 
@@ -136,42 +136,22 @@ Sunday                   484 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 57 mins       █████████████░░░░░░░░░░░░   53.80 % 
-C++                      1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Other                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Text                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ZXHPC                    5 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      5 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 48 mins (69.06%)
-
-✍️ 0 lines written by AI, 1,086 lines written by hand (0.0% AI-written)
-
-🔤 25,741,976 Input Tokens, 160,949 Output Tokens
-
-💵 $265.47 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 51 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,472 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -187,6 +167,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 00:33:39 UTC
+ Last Updated on 05/10/2026 00:40:43 UTC
 <!--END_SECTION:waka-->
 
