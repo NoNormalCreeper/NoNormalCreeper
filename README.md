@@ -93,15 +93,15 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-298%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.85%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.73%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,093 Contributions in the Year 2026
+> 🏆 1,094 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,51 +109,6 @@ UTC+8 · English / Chinese(Simplified/Traditional)
  > 
 > 🔑 28 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                687 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-🌆 Daytime                4201 commits        ███████████░░░░░░░░░░░░░░   42.86 % 
-🌃 Evening                3331 commits        ████████░░░░░░░░░░░░░░░░░   33.98 % 
-🌙 Night                  1583 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1887 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Tuesday                  871 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Wednesday                890 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Thursday                 2800 commits        ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Friday                   1292 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Saturday                 1298 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Sunday                   764 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -167,6 +122,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2026 00:56:12 UTC
+ Last Updated on 09/11/2026 01:51:27 UTC
 <!--END_SECTION:waka-->
 
