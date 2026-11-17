@@ -89,13 +89,13 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C280%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C280%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-298%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.52%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -112,21 +112,21 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                781 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-🌆 Daytime                4272 commits        ███████████░░░░░░░░░░░░░░   42.70 % 
-🌃 Evening                3368 commits        ████████░░░░░░░░░░░░░░░░░   33.66 % 
-🌙 Night                  1584 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+🌞 Morning                711 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+🌆 Daytime                4225 commits        ███████████░░░░░░░░░░░░░░   42.85 % 
+🌃 Evening                3341 commits        ████████░░░░░░░░░░░░░░░░░   33.88 % 
+🌙 Night                  1584 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1918 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Tuesday                  887 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Wednesday                928 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Thursday                 2813 commits        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-Friday                   1328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Saturday                 1350 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Sunday                   781 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Monday                   1891 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Tuesday                  874 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Wednesday                902 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Thursday                 2802 commits        ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+Friday                   1309 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Saturday                 1317 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Sunday                   766 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 ```
 
 
@@ -136,22 +136,43 @@ Sunday                   781 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+Other                    30 mins             ██████████████████████░░░   89.55 % 
+C++                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 
 🔥 Editors: 
-Excel                    1 min               █████████████████████████   100.00 % 
+VS Code                  32 mins             ████████████████████████░   94.69 % 
+Excel                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 min               █████████████████████████   100.00 % 
+byrdocs-neowiki          29 mins             █████████████████████░░░░   84.25 % 
+riscv64                  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+WSL                      32 mins             ████████████████████████░   94.69 % 
+Windows                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 29 mins (84.25%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 4,557,747 Input Tokens, 12,856 Output Tokens
+
+💵 $46.22 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 18 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 5,441 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -167,6 +188,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2026 01:44:55 UTC
+ Last Updated on 17/11/2026 04:30:00 UTC
 <!--END_SECTION:waka-->
 
