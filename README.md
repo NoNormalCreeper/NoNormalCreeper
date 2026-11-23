@@ -101,7 +101,7 @@ UTC+8 · English / Chinese(Simplified/Traditional)
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,096 Contributions in the Year 2026
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,20 +136,16 @@ Sunday                   781 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 mins              █████████████████░░░░░░░░   66.32 % 
-Other                    1 min               ████████░░░░░░░░░░░░░░░░░   33.68 % 
+C++                      3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████░░░░░░░░   66.32 % 
-Excel                    1 min               ████████░░░░░░░░░░░░░░░░░   33.68 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-riscv64                  3 mins              █████████████████░░░░░░░░   66.32 % 
-Unknown Project          1 min               ████████░░░░░░░░░░░░░░░░░   33.68 % 
+riscv64                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      3 mins              █████████████████░░░░░░░░   66.32 % 
-Windows                  1 min               ████████░░░░░░░░░░░░░░░░░   33.68 % 
+WSL                      3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -171,6 +167,6 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2026 02:03:19 UTC
+ Last Updated on 23/11/2026 02:31:02 UTC
 <!--END_SECTION:waka-->
 
